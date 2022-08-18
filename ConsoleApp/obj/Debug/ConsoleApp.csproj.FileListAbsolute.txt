@@ -1,0 +1,8 @@
+X:\Masters\Personal Projects\Windows_Application\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+X:\Masters\Personal Projects\Windows_Application\ConsoleApp\bin\Debug\ConsoleApp.exe
+X:\Masters\Personal Projects\Windows_Application\ConsoleApp\bin\Debug\ConsoleApp.pdb
+X:\Masters\Personal Projects\Windows_Application\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+X:\Masters\Personal Projects\Windows_Application\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+X:\Masters\Personal Projects\Windows_Application\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+X:\Masters\Personal Projects\Windows_Application\ConsoleApp\obj\Debug\ConsoleApp.exe
+X:\Masters\Personal Projects\Windows_Application\ConsoleApp\obj\Debug\ConsoleApp.pdb
